@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-GAME_THEORY_CORE_ENGINE_V3_1_WITNESS_SCORING",
+  "name": "V3.1 WITNESS SCORING · GAM",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦V3.1 WITNESS SCORING · GAM:game-theory-core-engine-v3-1-witness-scoring:3af7b0⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "3af7b0300755cc87ff01ea3d77a9b6aa82a031a6f7c537996ed2fff7d6d2f63a",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
